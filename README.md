@@ -3,6 +3,8 @@
 ## Abstract
 Prescription required keeping us healthy, however old age people require caretaker who can deal with their medicines plans. Because of busy schedules and less time, it's really hard to take proper medicines at a specific time. Many patients have to take multiple medicines daily but often forget which medicine to take at what time. Taking wrong medicines or missing doses can cause serious health issues or even death. This smart medicine dispenser solves this problem by informing patients to take medicine at the accurate time.
 
+📺 **Watch Project Video:** [YouTube Link](https://youtu.be/2iEwzeNC6vI?si=L5tpUQl3PAM0V7xV)
+
 ## Keywords
 Microcontrollers, Servomotor, LCD, RTC, IR sensor
 
